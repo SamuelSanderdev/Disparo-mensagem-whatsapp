@@ -2,15 +2,6 @@
 # Usando a Funcionalidade nativa do whatsapp de encaminhar mensagem
 # Encaminhar de 5 em 5 mensagens
 # pip install selenium pyperclip webdriver-manager
-# from selenium import webdriver
-# from selenium.webdriver.chrome.service import Service
-# from webdriver_manager.chrome import ChormeDriverManager
-# 
-# service = Service(ChormeDriverManager().install())
-# nav = webdriver.Chrome(service=service)
-# nav.get("https://web.whatsapp.com/")
-
-
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
